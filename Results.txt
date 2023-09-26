@@ -1,0 +1,7 @@
+1)The number of bicycle sharing increases on days when there is no work
+2)The number of bicycle sharing increases in warm climates
+3)In high temperatures, the number of bicycle sharing is less
+4)Sometimes the number of bike-sharing hours is more on work days, but in general it increases on holidays
+5)The numbers in this data are close, but we can definitely get a result nonetheless
+6)The ratings of people who use bicycles for more hours are higher and better than those who use them for fewer hours
+7)The warmer the weather, the more temperature, and the freer the day, the greater the number of bicycle sharing
