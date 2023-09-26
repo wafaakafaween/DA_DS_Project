@@ -1,3 +1,5 @@
+**studying bike rental count hourly or daily based on the environmental and seasonal settings.**
+
 In my project, I used (Regression) to predict the number of bike rentals hourly or daily based on environmental and seasonal settings      
 And most importantly! To reveal events in a specific city where
 The number of rental bikes is also linked to some events in the city which can be easily tracked via search engines.
